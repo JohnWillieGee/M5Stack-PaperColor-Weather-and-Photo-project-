@@ -29,8 +29,7 @@ A feature-rich weather dashboard and photo display for the **M5Stack PaperColor*
 
 
 ![Dashboard page 1](Screenshot_4.png)
-![Hourly graph page 2](docs/page2_hourly.jpg)
-![Web UI photo tab](docs/webui_photos.jpg)
+
 
 ---
 
