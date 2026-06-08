@@ -27,8 +27,10 @@ A feature-rich weather dashboard and photo display for the **M5Stack PaperColor*
 
 **Smart sleep/wake cycle** — wakes at scheduled times, fetches weather, renders, sleeps. Target battery life: weeks on a 1250 mAh cell at 1-hour intervals.
 
-.(https://github.com/JohnWillieGee/M5Stack-PaperColor-Weather-and-Photo-project-/blob/e11fb77d28ee48e5750b03bede20dbde718f600f/Screenshot_4.png).
 
+![Dashboard page 1](docs/page1_dashboard.jpg)
+![Hourly graph page 2](docs/page2_hourly.jpg)
+![Web UI photo tab](docs/webui_photos.jpg)
 
 ---
 
